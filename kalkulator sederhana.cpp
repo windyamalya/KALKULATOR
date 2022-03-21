@@ -39,9 +39,10 @@ int main(){
 			break;
 		default :
 			cout<<"Salah Masukan Operator"<<endl;
+			cout<<"Pilihan tidak tersedia"<<endl;
 	}
 	cout<<endl;
-	cout<<"HASIL : "<<bil1<<" "<<operasi<<" "<<bil2<<" "<<"="<<" "<<hasil<<endl;
+	cout<<"HASIL  "<<bil1<<" "<<operasi<<" "<<bil2<<" "<<"="<<" "<<hasil<<endl;
 	cout<<endl;
 	cout<<"Terima Kasih Telah Menggunkan Kalkulator Sederhana ";
 	
