@@ -40,6 +40,7 @@ int main(){
 		default :
 			cout<<"Salah Masukan Operator"<<endl;
 			cout<<"Pilihan tidak tersedia"<<endl;
+			cout<<"eror"<<endl;
 	}
 	cout<<endl;
 	cout<<"HASIL  "<<bil1<<" "<<operasi<<" "<<bil2<<" "<<"="<<" "<<hasil<<endl;
